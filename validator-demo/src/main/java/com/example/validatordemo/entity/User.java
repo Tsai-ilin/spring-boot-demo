@@ -1,10 +1,12 @@
 package com.example.validatordemo.entity;
 
 import com.example.validatordemo.MyCustomConstraint;
+import lombok.Data;
 
 import javax.validation.constraints.*;
 import java.io.Serializable;
 
+@Data
 public class User implements Serializable {
     private long id;
 
