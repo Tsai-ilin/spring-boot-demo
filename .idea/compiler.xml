@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-demo" />
+        <module name="webflux-curd" />
         <module name="webflux-helloworld" />
         <module name="validator-demo" />
         <module name="mvc-demo" />
@@ -18,6 +19,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="mvc-demo" options="-parameters" />
       <module name="validator-demo" options="-parameters" />
+      <module name="webflux-curd" options="-parameters" />
       <module name="webflux-helloworld" options="-parameters" />
     </option>
   </component>

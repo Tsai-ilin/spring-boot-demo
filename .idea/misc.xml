@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/mvc-demo/pom.xml" />
         <option value="$PROJECT_DIR$/validator-demo/pom.xml" />
         <option value="$PROJECT_DIR$/webflux-helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/webflux-curd/pom.xml" />
       </list>
     </option>
   </component>
